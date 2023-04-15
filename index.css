@@ -1,0 +1,67 @@
+*{ margin: 0%;
+box-sizing: border-box;
+}
+
+body{text-align: center;
+padding-top: 160px;
+background-image:  url(https://i.ibb.co/bbVZBHK/a3877fcf-318c-43eb-a471-46bc3d26289e-Edited.jpg
+);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+font-family: 'Emilys Candy', cursive;
+
+}
+
+
+
+h1{color: #050505;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+*background-color: rgb(248, 242, 235);*
+
+
+
+
+}
+
+h3 span{color: #e4e8eb;
+}
+
+p{font-size: 22.5px;
+line-height: 27px;
+margin-bottom: 72px;
+opacity: 1;
+color: rgb(248, 246, 246);
+
+}
+
+
+a{padding: 12px 32px;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+color: #e4e8eb
+;
+}
+
+
+a:hover {
+text-decoration: none;
+color: #e4e8eb
+;
+background-color: #a82913;
+}
+
+.primary{
+text-decoration: none;
+color: #111111;
+background-color: #a82913;
+opacity: 1
+;
+
+}
